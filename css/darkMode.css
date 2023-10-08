@@ -1,0 +1,9 @@
+/* === Aplicando CSS al body para aplicar un modo oscuro === */
+.black{
+    background-color: #000;
+    color: #fff;
+}
+
+header nav{
+    background-color: gray;
+}

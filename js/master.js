@@ -1,6 +1,6 @@
 let mangasHTML = document.querySelector('.mangas');
 
-fetch('../datos/mangas.json')
+fetch('./datos/mangas.json') //Uso un solo "." en lugar de dos como se nos enseñó porque en github pages no encuentra el JSON
     .then((respuesta) => {
         return respuesta.json();
     })

@@ -1,0 +1,2 @@
+Agradecimientos al profesor Ángel Daniel Fuentes por su constante esfuerzo y dedicación para enseñarnos lo lindo e interesante que puede ser todo esto con tan solo un poquito de curiosidad y ganas. Por sus consejos, actitud positiva y paciencia, mucha paciencia en cada una de las clases creando lindos recuerdos y animándonos en cada momento a continuar aprendiendo así sea tan solo un poquito cada día.
+Le deseo lo mejor y mucha suerte en todos sus proyectos a futuro.
